@@ -16,7 +16,7 @@ This project involves analyzing sales data for a bike store using Excel. The ana
 
 The analysis is available in an Excel file stored on OneDrive. You can access it through the link below:
 
-[📂 Click here to view the Excel file](https://1drv.ms/x/c/8efa95517079d587/EYAvonI9DWJLpRuMnXMdXKgB2KvoT6h3FDN9wKBY_9FTZA?e=jkpoUC)
+[📂 Click here to view the Excel file](https://1drv.ms/x/c/8efa95517079d587/EQG_yYEmkHtLsW97yO-ac8gB_my72gKoScTpazx53lpGhQ?e=dmOsaV)
 
 ---
 
